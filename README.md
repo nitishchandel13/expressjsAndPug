@@ -9,8 +9,6 @@ Technologies
   Pug Templating
   Passport.js Authentication
   BCrypt Hashing
-Version
-  2.0.0
 
 Usage
 Installation
